@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jiggyg/Documents/GitHub/driver license quiz/quiz/quiz/quiz.csproj": {}
+    "/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/quiz.csproj": {}
   },
   "projects": {
-    "/Users/jiggyg/Documents/GitHub/driver license quiz/quiz/quiz/quiz.csproj": {
+    "/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jiggyg/Documents/GitHub/driver license quiz/quiz/quiz/quiz.csproj",
+        "projectUniqueName": "/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/quiz.csproj",
         "projectName": "quiz",
-        "projectPath": "/Users/jiggyg/Documents/GitHub/driver license quiz/quiz/quiz/quiz.csproj",
+        "projectPath": "/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/quiz.csproj",
         "packagesPath": "/Users/jiggyg/.nuget/packages/",
-        "outputPath": "/Users/jiggyg/Documents/GitHub/driver license quiz/quiz/quiz/obj/",
+        "outputPath": "/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jiggyg/.nuget/NuGet/NuGet.Config"

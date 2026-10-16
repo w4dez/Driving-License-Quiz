@@ -1,0 +1,15 @@
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/bin/Debug/net10.0/quiz
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/bin/Debug/net10.0/quiz.deps.json
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/bin/Debug/net10.0/quiz.runtimeconfig.json
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/bin/Debug/net10.0/quiz.dll
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/bin/Debug/net10.0/quiz.pdb
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/Debug/net10.0/quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/Debug/net10.0/quiz.AssemblyInfoInputs.cache
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/Debug/net10.0/quiz.AssemblyInfo.cs
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/Debug/net10.0/quiz.csproj.CoreCompileInputs.cache
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/Debug/net10.0/quiz.sourcelink.json
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/Debug/net10.0/quiz.dll
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/Debug/net10.0/refint/quiz.dll
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/Debug/net10.0/quiz.pdb
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/Debug/net10.0/quiz.genruntimeconfig.cache
+/Users/jiggyg/Documents/GitHub/driverLicenseQuiz/quiz/quiz/obj/Debug/net10.0/ref/quiz.dll
